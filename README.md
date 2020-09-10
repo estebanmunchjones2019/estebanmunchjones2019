@@ -1,10 +1,10 @@
-## Hi there, I'm Esteban Munch Jones
+# Hi there, I'm Esteban Munch Jones
 
 A Mature engineer passionate about coding, with great initiative, good communication skills with clients and peers, and the drive to go the extra mile to understand how things work under the hood.
 
 ------
 
-### Connect with me:
+# Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -12,9 +12,9 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 ------
 
-### Repositories catalog:
+# Repositories catalog:
 
-#### [Angular:](https://angular.io/)
+## [Angular:](https://angular.io/)
 
 [Iglesia UEA]() 
 
@@ -28,7 +28,7 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 
 
-#### [React:](https://reactjs.org/)
+## [React:](https://reactjs.org/)
 
 [Burger Builder version 1](https://github.com/estebanmunchjones2019/burger-builder-Redux-Thunk-classes)
 
@@ -38,7 +38,7 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 
 
-#### [Bootstrap:](https://getbootstrap.com/)
+## [Bootstrap:](https://getbootstrap.com/)
 
 [Aurora Grove](https://github.com/estebanmunchjones2019/aurora-grove)
 
@@ -46,7 +46,7 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 
 
-#### [Express:](https://expressjs.com/)
+## [Express:](https://expressjs.com/)
 
 [X-Press Publishing](https://github.com/estebanmunchjones2019/XpressPublishing)
 
@@ -54,7 +54,7 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 
 
-#### [SQL:](https://www.w3schools.com/sql/)
+## [SQL:](https://www.w3schools.com/sql/)
 
 [Gold Medal Metrics](https://github.com/estebanmunchjones2019/goldMedalMetrics)
 
@@ -62,7 +62,7 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 ---
 
-### 📕 Blog Posts
+# 📕 Blog Posts
 
 - [Introducing Scully: a static site generator for Angular Apps](https://academind.com/learn/angular/scully-introduction/)
 

@@ -22,9 +22,9 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 [Fitness Tracker version 2]()
 
-[Recipe Book version 1](https://github.com/estebanmunchjones2019/shopping-services)
+[Recipe Book version 1](https://github.com/estebanmunchjones2019/recipe-book-services)
 
-[Recipe Book version 2](https://github.com/estebanmunchjones2019/shopping-ngrx)
+[Recipe Book version 2](https://github.com/estebanmunchjones2019/recipe-book-ngrx)
 
 
 
@@ -37,6 +37,10 @@ A Mature engineer passionate about coding, with great initiative, good communica
 [Burger Builder version 3](https://github.com/estebanmunchjones2019/burger-builder-Redux-Saga-functional-components)
 
 [React Movie](https://github.com/estebanmunchjones2019/react-movie)
+
+[Jamming](https://github.com/estebanmunchjones2019/jamming)
+
+[Ravenous](https://github.com/estebanmunchjones2019/ravenous)
 
 
 
@@ -61,6 +65,10 @@ A Mature engineer passionate about coding, with great initiative, good communica
 [Gold Medal Metrics](https://github.com/estebanmunchjones2019/goldMedalMetrics)
 
 
+
+## [JavaScript:](https://www.w3schools.com/js/)
+
+[Chore Door](https://github.com/estebanmunchjones2019/github.io-choredoor)
 
 ---
 

@@ -72,7 +72,7 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 ---
 
-# 📕 Blog Posts
+# 📕 Articles
 
 - [Introducing Scully: a static site generator for Angular Apps](https://academind.com/learn/angular/scully-introduction/)
 

@@ -16,11 +16,11 @@ A Mature engineer passionate about coding, with great initiative, good communica
 
 ## [Angular:](https://angular.io/)
 
-[Iglesia UEA]() 
+[Iglesia UEA](https://github.com/estebanmunchjones2019/iglesia-uea) 
 
 [Fitness Tracker version 1](https://github.com/estebanmunchjones2019/fitness-tracker-services)
 
-[Fitness Tracker version 2]()
+[Fitness Tracker version 2](https://github.com/estebanmunchjones2019/fitness-tracker-ngrx)
 
 [Recipe Book version 1](https://github.com/estebanmunchjones2019/recipe-book-services)
 
@@ -83,6 +83,8 @@ A Mature engineer passionate about coding, with great initiative, good communica
 # 📕 Articles
 
 - [Introducing Scully: a static site generator for Angular Apps](https://academind.com/learn/angular/scully-introduction/)
+- [Build a custom email signature](https://academind.com/tutorials/build-a-custom-email-signature/)
+- [Introduction to Web Components](https://academind.com/tutorials/web-components-introduction/)
 
 [website]: https://munchjones.com
 [twitter]: https://twitter.com/MunchEsteban

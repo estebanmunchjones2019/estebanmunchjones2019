@@ -85,6 +85,7 @@ A Mature engineer passionate about coding, with great initiative, good communica
 - [Introducing Scully: a static site generator for Angular Apps](https://academind.com/learn/angular/scully-introduction/)
 - [Build a custom email signature](https://academind.com/tutorials/build-a-custom-email-signature/)
 - [Introduction to Web Components](https://academind.com/tutorials/web-components-introduction/)
+- [Adding Web Components to any app](#https://academind.com/tutorials/adding-web-components-to-any-app/)
 
 [website]: https://munchjones.com
 [twitter]: https://twitter.com/MunchEsteban
